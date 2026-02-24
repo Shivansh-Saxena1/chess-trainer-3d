@@ -52,7 +52,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/chess-trainer.git
+git clone https://github.com/Shivansh-Saxena1/chess-trainer-3d.git
 
 # Navigate to the project
 cd chess-trainer
